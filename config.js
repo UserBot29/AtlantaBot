@@ -1,10 +1,10 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "NjYzMTI2MTAxMTQwMzA4MDA4.XhEKHw.8ua7F94eT3yD2v3Ly3jHmUFWw-U",
 	/* For the support server */
 	support: {
-		id: "XXXXXXXXXXX", // The ID of the support server
-		logs: "XXXXXXXXXXX", // And the ID of the logs channel of your server (new servers for example)
+		id: "663021532741894155", // The ID of the support server
+		logs: "663023178666344498", // And the ID of the logs channel of your server (new servers for example)
 	},
 	/* Dashboard configuration */
 	dashboard: {
@@ -27,8 +27,8 @@ module.exports = {
 	botname: "Atlanta", // The name of the bot
 	/* Bot's owner informations */
 	owner: {
-		id: "XXXXXXXXXXX", // The ID of the bot's owner
-		name: "Androz#2091" // And the name of the bot's owner
+		id: "324631677861232640", // The ID of the bot's owner
+		name: "Esael#5278" // And the name of the bot's owner
 	},
 	/* DBL votes webhook (optional) */
 	votes: {
@@ -45,137 +45,137 @@ module.exports = {
 		// DBL: https://discordbots.org/api/docs#mybots
 		dbl: "XXXXXXXXXXX",
 		// SIMPLE YOUTUBE API: https://console.developers.google.com/
-		simpleYoutube: "XXXXXXXXXXX",
+		simpleYoutube: "AIzaSyBXZGITRf0qqfqWlsxhsU5oO6qXHMfTup0",
 		// AMETHYSTE: https://api.amethyste.moe
 		amethyste: "XXXXXXXXXXX"
 	},
 	/* The emojis that are required for certain commands */
 	emojis: {
-		error: "XXXXXXXXXXX",
+		error: "https://cdn.discordapp.com/emojis/565212755804684318.png",
 		// RE: https://cdn.discordapp.com/emojis/565212755804684318.png
-		success: "XXXXXXXXXXX",
+		success: "https://cdn.discordapp.com/emojis/565212755804684318.png",
 		// RE: https://cdn.discordapp.com/emojis/565212709591973896.png
-		loading: "XXXXXXXXXXX",
+		loading: "https://cdn.discordapp.com/emojis/565214530121105418.gif",
 		// RE: https://cdn.discordapp.com/emojis/565214530121105418.gif
-		stats: "XXXXXXXXXXX",
+		stats: "https://img.icons8.com/flat_round/64/000000/bar-chart-isometric.png",
 		// RE: https://img.icons8.com/flat_round/64/000000/bar-chart-isometric.png
-		ram: "XXXXXXXXXXX",
+		ram: "https://img.icons8.com/color/96/000000/processor.png",
 		// RE: https://img.icons8.com/color/96/000000/processor.png
-		version: "XXXXXXXXXXX",
+		version: "https://img.icons8.com/color/96/000000/installing-updates.png",
 		// RE: https://img.icons8.com/color/96/000000/installing-updates.png
-		link: "XXXXXXXXXXX",
+		link: "https://img.icons8.com/color/96/000000/link.png",
 		// RE: https://img.icons8.com/color/96/000000/link.png
-		voice: "XXXXXXXXXXX",
+		voice: "https://img.icons8.com/color/96/000000/speaker.png",
 		// RE: https://img.icons8.com/color/96/000000/speaker.png
-		add: "XXXXXXXXXXX",
+		add: "https://img.icons8.com/flat_round/64/000000/plus.png",
 		// RE: https://img.icons8.com/flat_round/64/000000/plus.png
-		vote: "XXXXXXXXXXX",
+		vote: "https://img.icons8.com/flat_round/96/vote-button.png ",
 		// RE: https://img.icons8.com/flat_round/96/vote-button.png 
-		help: "XXXXXXXXXXX",
+		help: "https://img.icons8.com/color/96/000000/help.png",
 		// RE: https://img.icons8.com/color/96/000000/help.png
-		warn: "XXXXXXXXXXX",
+		warn: "https://img.icons8.com/flat_round/64/000000/error--v1.png",
 		// RE: https://img.icons8.com/flat_round/64/000000/error--v1.png
-		games: "XXXXXXXXXXX",
+		games: "https://img.icons8.com/color/96/000000/computer.png",
 		// RE: https://img.icons8.com/color/96/000000/computer.png
-		crown: "XXXXXXXXXXX",
+		crown: "https://img.icons8.com/flat_round/96/000000/crown.png",
 		// RE: https://img.icons8.com/flat_round/96/000000/crown.png
-		discriminator: "XXXXXXXXXXX",
+		discriminator: "https://img.icons8.com/color/96/000000/hashtag-2.png",
 		// RE: https://img.icons8.com/color/96/000000/hashtag-2.png
-		bot: "XXXXXXXXXXX",
+		bot: "https://img.icons8.com/color/96/000000/bot.png",
 		// RE: https://img.icons8.com/color/96/000000/bot.png
-		avatar: "XXXXXXXXXXX",
+		avatar: "https://img.icons8.com/color/96/000000/picture.png",
 		// RE: https://img.icons8.com/color/96/000000/picture.png
-		calendar: "XXXXXXXXXXX",
+		calendar: "https://img.icons8.com/color/96/000000/calendar.png",
 		// RE: https://img.icons8.com/color/96/000000/calendar.png
-		calendar2: "XXXXXXXXXXX",
+		calendar2: "https://img.icons8.com/color/96/000000/calendar-2.png",
 		// RE: https://img.icons8.com/color/96/000000/calendar-2.png
-		up: "XXXXXXXXXXX",
+		up: "https://img.icons8.com/cotton/64/000000/circled-up--v2.png",
 		// RE: https://img.icons8.com/cotton/64/000000/circled-up--v2.png
-		pencil: "XXXXXXXXXXX",
+		pencil: "https://img.icons8.com/color/96/000000/pencil.png",
 		// RE: https://img.icons8.com/color/96/000000/pencil.png
-		roles: "XXXXXXXXXXX",
+		roles: "https://img.icons8.com/color/96/000000/admin-settings-male.png",
 		// RE: https://img.icons8.com/color/96/000000/admin-settings-male.png
-		color: "XXXXXXXXXXX",
+		color: "https://img.icons8.com/color/96/000000/color-palette.png",
 		// RE: https://img.icons8.com/color/96/000000/color-palette.png
-		minecraft: "XXXXXXXXXXX",
+		minecraft: "https://img.icons8.com/color/96/000000/minecraft-sword.png ",
 		// RE: https://img.icons8.com/color/96/000000/minecraft-sword.png 
-		users: "XXXXXXXXXXX",
+		users: "https://img.icons8.com/color/96/000000/group.png",
 		// RE: https://img.icons8.com/color/96/000000/group.png
-		title: "XXXXXXXXXXX",
+		title: "https://img.icons8.com/color/96/000000/tag-window.png",
 		// RE: https://img.icons8.com/color/96/000000/tag-window.png
-		singer: "XXXXXXXXXXX",
+		singer: "https://img.icons8.com/ios-filled/96/000000/rap.png",
 		// RE: https://img.icons8.com/ios-filled/96/000000/rap.png
-		time: "XXXXXXXXXXX",
+		time: "https://img.icons8.com/color/96/000000/future.png",
 		// RE: https://img.icons8.com/color/96/000000/future.png
-		search: "XXXXXXXXXXX",
+		search: "https://img.icons8.com/cotton/96/000000/search--v2.png",
 		// RE: https://img.icons8.com/cotton/96/000000/search--v2.png
-		desc: "XXXXXXXXXXX",
+		desc: "https://img.icons8.com/color/96/000000/text-box.png",
 		// RE: https://img.icons8.com/color/96/000000/text-box.png
-		playlist: "XXXXXXXXXXX",
+		playlist: "https://img.icons8.com/color/96/000000/smart-playlist.png",
 		// RE: https://img.icons8.com/color/96/000000/smart-playlist.png
-		channels: "XXXXXXXXXXX",
+		channels: "https://img.icons8.com/color/96/000000/filled-chat.png",
 		// RE: https://img.icons8.com/color/96/000000/filled-chat.png
-		afk: "XXXXXXXXXXX",
+		afk: "https://img.icons8.com/color/96/000000/no-microphone.png",
 		// RE: https://img.icons8.com/color/96/000000/no-microphone.png
-		id: "XXXXXXXXXXX",
+		id: "https://img.icons8.com/color/96/000000/id-verified.png",
 		// RE: https://img.icons8.com/color/96/000000/id-verified.png
-		ip: "XXXXXXXXXXX",
+		ip: "https://img.icons8.com/color/96/000000/ip-address.png",
 		// RE: https://img.icons8.com/color/96/000000/ip-address.png
-		folder: "XXXXXXXXXXX",
+		folder: "https://img.icons8.com/color/344/opened-folder.png",
 		// RE: https://img.icons8.com/color/344/opened-folder.png
-		desc2: "XXXXXXXXXXX",
+		desc2: "https://img.icons8.com/color/344/edit-property.png",
 		// RE: https://img.icons8.com/color/344/edit-property.png
-		patreon: "XXXXXXXXXXX",
+		patreon: "https://cdn6.aptoide.com/imgs/2/8/e/28e759bcb1e00ad978afdf443e60c11e_icon.png",
 		// RE: https://cdn6.aptoide.com/imgs/2/8/e/28e759bcb1e00ad978afdf443e60c11e_icon.png
-		server: "XXXXXXXXXXX",
+		server: "https://img.icons8.com/color/96/000000/root-server.png",
 		// RE: https://img.icons8.com/color/96/000000/root-server.png
-		boost: "XXXXXXXXXXX",
+		boost: "https://i.goopics.net/w7LAR.png",
 		// RE: https://i.goopics.net/w7LAR.png
 		status: {
-			idle: "XXXXXXXXXXX",
+			idle: "https://i.goopics.net/bRVWW.png",
 			// RE: https://i.goopics.net/bRVWW.png
-			dnd: "XXXXXXXXXXX",
+			dnd: "https://i.goopics.net/lWN3A.png",
 			// RE: https://i.goopics.net/lWN3A.png
-			offline: "XXXXXXXXXXX",
+			offline: "https://i.goopics.net/WRPWl.png",
 			// RE: https://i.goopics.net/WRPWl.png
-			online: "XXXXXXXXXXX"
+			online: "https://i.goopics.net/QdGW0.png"
 			// RE: https://i.goopics.net/QdGW0.png
 		},
 		letters: {
-			a: "XXXXXXXXXXX",
+			a: "https://i.goopics.net/RNemO.png",
 			// RE: https://i.goopics.net/RNemO.png
-			w: "XXXXXXXXXXX",
+			w: "https://i.goopics.net/AyKOA.png",
 			// RE: https://i.goopics.net/AyKOA.png
-			r: "XXXXXXXXXXX",
+			r: "https://i.goopics.net/7PKen.png",
 			// RE: https://i.goopics.net/7PKen.png
-			d: "XXXXXXXXXXX"
+			d: "https://i.goopics.net/vAgj7.png"
 			// RE: https://i.goopics.net/vAgj7.png
 		},
 		categories: {
-			administration: "XXXXXXXXXXX",
+			administration: "https://img.icons8.com/color/96/000000/horizontal-settings-mixer.png",
 			// RE: https://img.icons8.com/color/96/000000/horizontal-settings-mixer.png
-			economy: "XXXXXXXXXXX",
+			economy: "https://img.icons8.com/color/96/000000/banknotes.png",
 			// RE: https://img.icons8.com/color/96/000000/banknotes.png
-			fun: "XXXXXXXXXXX",
+			fun: "https://img.icons8.com/color/96/000000/smiling.png",
 			// RE: https://img.icons8.com/color/96/000000/smiling.png
-			general: "XXXXXXXXXXX",
+			general: "https://i.goopics.net/3X5oq.png",
 			// RE: https://i.goopics.net/3X5oq.png
-			images: "XXXXXXXXXXX",
+			images: "https://img.icons8.com/color/96/000000/picture.png",
 			// RE: https://img.icons8.com/color/96/000000/picture.png
-			moderation: "XXXXXXXXXXX",
+			moderation: "https://img.icons8.com/color/96/000000/police-badge.png",
 			// RE: https://img.icons8.com/color/96/000000/police-badge.png
-			music: "XXXXXXXXXXX",
+			music: "https://img.icons8.com/color/96/000000/musically.png",
 			// RE: https://img.icons8.com/color/96/000000/musically.png
-			owner: "XXXXXXXXXXX",
+			owner: "https://img.icons8.com/color/96/000000/queen-uk.png",
 			// RE: https://img.icons8.com/color/96/000000/queen-uk.png
-			custom: "XXXXXXXXXXX"
+			custom: "https://img.icons8.com/color/96/000000/request-service.png"
 			// RE: https://img.icons8.com/color/96/000000/request-service.png
 		}
 	},
 	/* The others utils links */
 	others: {
 		github: "https://github.com/Androz2091", // Founder's github account
-		donate: "https://patreon.com/Androz2091" // Donate link
+		donate: "https://paypal.me/UserBot" // Donate link
 	},
 	/* The badges for the badges command */
 	badges: {
@@ -204,11 +204,11 @@ module.exports = {
 	/* The Bot status */
 	status: [
 		{
-			name: "@Atlanta help on {serversCount} servers",
+			name: "*help",
 			type: "LISTENING"
 		},
 		{
-			name: "my website : atlanta-bot.fr",
+			name: "http://esabot.ml",
 			type: "PLAYING"
 		}
 	],

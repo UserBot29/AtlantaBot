@@ -1,9 +1,9 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "NjYzMTI2MTAxMTQwMzA4MDA4.XhEKHw.8ua7F94eT3yD2v3Ly3jHmUFWw-U",
+	token: "NjcxMTQ1MzQyOTM4NjQ0NDkz.Xi4xNA.fJTB4cWLvjHQU_z7SYepI6BgFLY",
 	/* For the support server */
 	support: {
-		id: "663021532741894155", // The ID of the support server
+		id: "671145342938644493", // The ID of the support server
 		logs: "663023178666344498", // And the ID of the logs channel of your server (new servers for example)
 	},
 	/* Dashboard configuration */
@@ -21,10 +21,10 @@ module.exports = {
 	/* For the embeds (embeded messages) */
 	embed: {
 		color: "#0091fc", // The default color for the embeds
-		footer: "Atlanta | Open Source" // And the default footer for the embeds
+		footer: "ESAbot 2020" // And the default footer for the embeds
 	},
 	defaultLanguage: "english", // The default language for the new servers
-	botname: "Atlanta", // The name of the bot
+	botname: "ESAbot", // The name of the bot
 	/* Bot's owner informations */
 	owner: {
 		id: "324631677861232640", // The ID of the bot's owner
